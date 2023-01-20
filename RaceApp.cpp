@@ -17,7 +17,7 @@ int main()
     cout << "enter the time for the bronze medal winner: (s)" << endl;
     cin >> bronzeTime;
  
-    cout << "The gap betweenn the winner and the runner up is "<< silverTime - goldTime << "s" << endl;
+    cout << "The gap between the winner and the runner up is "<< silverTime - goldTime << "s" << endl;
     cout << "The gap between second and third place is " << bronzeTime - silverTime << "s" << endl;
     cout << "The average time of the top three runners is " << (goldTime + silverTime +bronzeTime)/3 << "s" << endl;
     
