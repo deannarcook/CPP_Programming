@@ -1,3 +1,4 @@
+// This program was created to practice creating a class in C++ and creating an object from a class.
 #include <iostream>
 #include <string>
 
