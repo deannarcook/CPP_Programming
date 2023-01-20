@@ -1,3 +1,5 @@
+// This program asks the user to enter the time that they ate. Then it calculates how much time until lunch.
+
 #include <iostream>
 #include <iomanip>
 
