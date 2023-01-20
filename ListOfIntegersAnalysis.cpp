@@ -1,3 +1,4 @@
+// This program allows users to enter a list of integers. Then the program returns the number of even integers entered, the number of odd integers entered, the minimum integer entered, and the total number of integers entered,
 #include <iostream>
 
 using namespace std;
