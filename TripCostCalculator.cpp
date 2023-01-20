@@ -1,3 +1,4 @@
+// This program prompts the user for their car's fuel efficiency, the outbound distance of their trip, and the inbound distance of their trip. Then it computes the total trip cost.
 #include <iostream>
 
 using namespace std;
