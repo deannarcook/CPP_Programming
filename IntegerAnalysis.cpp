@@ -1,3 +1,4 @@
+// This program prompts the user to enter two integers. Then it finds the smallest integer, determines if the smallest integer is even or odd, sums the two integers, and determines if the  sum of the two integers is even or odd.
 #include <iostream>
 
 using namespace std;
