@@ -1,3 +1,4 @@
+// This program was created to practice generating random numbers in C++. The program asks the users for their current age. Then the programs adds a random number to the age.
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
