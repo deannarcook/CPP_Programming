@@ -1,3 +1,4 @@
+// This program prompts the user for the time for the gold, silver, and medal winners. Then it computes the gap between the winner and runner up, the gap between the second and third place contestant, and the average time of the top three runners
 #include <iostream>
 
 using namespace std;
