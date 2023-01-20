@@ -1,3 +1,5 @@
+// This program prompts the user to enter three integers. Then it returns the integers ordered from smallest to largest. 
+
 // algorithim
 // input
 // 3 integers x, y, z
